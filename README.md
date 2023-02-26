@@ -30,7 +30,7 @@ make
 - Chapter 2: Basics of OpenCV
     - Read/write images: [chapter2/main.cpp](chapter2/main.cpp)
     - Read videos and cameras: [chapter2/mainVideo.cpp](chapter2/mainVideo.cpp)
-    - Basic object types [ochapter2/bjectType.cpp](chapter2/objectTypes.cpp)
+    - Basic object types [chapter2/objectType.cpp](chapter2/objectTypes.cpp)
     - Basic matrix operations: 
     - Basic data persistence and storage: 
 
