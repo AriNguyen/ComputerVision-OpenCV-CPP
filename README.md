@@ -4,7 +4,7 @@
 
 Yes, another Github repo to learn new stuff. I found computer vision is fun and powerful!! I'm following this book [Building Computer Vision Projects with OpenCV 4 and C++: Implement complex computer vision algorithms and explore deep learning and face detection](https://www.amazon.com/Building-Computer-Vision-Projects-OpenCV/dp/1838644679). 
 
-It's my first time using Dockerfile with C++. It's so much easier than installing package to my macOS environemnt though. It was really a pain in the ass guys. Highly recommend using Docker!!!!! 
+It's my first time using Dockerfile with OpenCV C++. It's so much easier than installing package to my macOS environemnt though. It was really a pain in the ass guys. Highly recommend using Docker!!!!! 
 
 Let's goo!! 
 
