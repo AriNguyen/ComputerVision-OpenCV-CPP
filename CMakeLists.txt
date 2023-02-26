@@ -9,5 +9,5 @@ MESSAGE("OpenCV version : ${OpenCV_VERSION}")
 include_directories(${OpenCV_INCLUDE_DIRS}) 
 link_directories(${OpenCV_LIB_DIR}) 
  
-ADD_EXECUTABLE(sample2 mainVideo.cpp) 
-TARGET_LINK_LIBRARIES(sample2 ${OpenCV_LIBS})
+ADD_EXECUTABLE(sample3 chapter2/objectTypes.cpp) 
+TARGET_LINK_LIBRARIES(sample3 ${OpenCV_LIBS})
