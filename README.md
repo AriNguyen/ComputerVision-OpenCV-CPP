@@ -31,8 +31,8 @@ make
     - Read/write images: [chapter2/main.cpp](chapter2/main.cpp)
     - Read videos and cameras: [chapter2/mainVideo.cpp](chapter2/mainVideo.cpp)
     - Basic object types [chapter2/objectType.cpp](chapter2/objectTypes.cpp)
-    - Basic matrix operations: 
-    - Basic data persistence and storage: 
+    - Basic matrix operations: [chapter2/matrixOperations.cpp](chapter2/matrixOperations.cpp)
+    - Basic data persistence and storage: [chapter2/fileStorage.cpp](chapter2/fileStorage.cpp)
 
 - Chapter 3: Graphical User Interface (GUI)
 
