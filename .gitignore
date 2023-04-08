@@ -33,3 +33,7 @@
 
 build/
 .devcontainer/
+
+*/data
+
+.DS_Store
