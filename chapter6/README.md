@@ -15,7 +15,7 @@ The difference betwwen these methods is the filter kernel applied to the origina
 
 After remove noise:
 
-![](build/removedNoiseImg.jpg)
+![](out/removedNoiseImg.jpg)
 
 ### Remove Background
 
@@ -27,10 +27,10 @@ The more different, the smaller the value. W want the most different to be promi
 
 After remove background:
 
-![](build/removedBackGroundImg.jpg)
+![](out/removedBackGroundImg.jpg)
 
 ### Thresholding
 
 After appplying threshold algorithm:
 
-![](build/thresholdImg.jpg)
+![](out/thresholdImg.jpg)
