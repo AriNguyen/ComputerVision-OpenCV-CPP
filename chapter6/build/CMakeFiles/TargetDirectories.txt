@@ -1,0 +1,3 @@
+/workspaces/computerVisionCPP/chapter6/build/CMakeFiles/rebuild_cache.dir
+/workspaces/computerVisionCPP/chapter6/build/CMakeFiles/experiment.dir
+/workspaces/computerVisionCPP/chapter6/build/CMakeFiles/edit_cache.dir
